@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" , ZALTV CODE GENERATOR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" ,ZALTV CODE GENERATOR
 https://raw.githubusercontent.com:443/adisyukri/test/master/zaltv.mp4
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",RCTI
